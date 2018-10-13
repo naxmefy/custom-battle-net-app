@@ -4,5 +4,11 @@
     "cordova": {}
   },
   "type": "ionic-angular",
-  "pro_id": "8005b210"
+  "pro_id": "8005b210",
+  "proxies": [
+    {
+      "path": "/battlenet",
+      "proxyUrl": "https://eu.battle.net"
+    }
+  ]
 }

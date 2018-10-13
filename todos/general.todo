@@ -1,0 +1,22 @@
+General Todos:
+  ✔ battle net api account erstellen @done (2018-10-13 21:31:15)
+  ✔ battle net app erstellen @done (2018-10-13 21:31:17)
+  ✔ battle net api lib - typescript/javascript prüfen @done (2018-10-13 21:31:18)
+  ☐ battle net client secret nach stream neu generieren
+  ☐ battle net api dokumentation prüfen
+
+Ionic Todos:
+  ✔ Node, NPM, Ionic, Cordova installieren @done (2018-10-13 21:31:24)
+  ✔ App Starter erstellen @done (2018-10-13 21:31:25)
+  ✔ Ionic Pro prüfen (wahrscheinlich nicht erforderlich) @done (2018-10-13 21:49:06)
+
+App Todos:
+  ☐ Bug Beachten bei neuem Developer Portal von Blizzard (it creates broken clients :P)
+  ☐ Create Application in old dev portal
+  ☐ OAuth2 credentials security (hide client id and secret)
+  ☐ OAuth2 authentication einbauen
+    ☐ Auswahl der Region
+    ☐ Redirect URI?
+    ☐ OAuth2 Scopes beachten
+  ☐ battle net api lib testen
+  ☐ grobes wireframe erstellen (nav, default pages, default actions)
