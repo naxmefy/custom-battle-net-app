@@ -1,0 +1,8 @@
+{
+  "name": "custom-battle-net-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "8005b210"
+}
